@@ -33,7 +33,7 @@
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
+    "backgroundImage": "amish1280.jpg",
     "foregroundColor": "#fc0",
     "waveBottom": 660,
     "waveTop": 320
@@ -124,6 +124,6 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+    "backgroundImage": "amish640.png"
   }
 }

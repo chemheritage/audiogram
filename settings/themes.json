@@ -28,6 +28,16 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
+    "Background image rect with white": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "background_1280x720.jpg",
+    "foregroundColor": "#fff",
+    "waveBottom": 450,
+    "waveTop": 250
+  },
   "Background image rect with yellow": {
     "captionAlign": "right",
     "captionTop": 60,

@@ -9,8 +9,8 @@
     "waveTop": 150,
     "waveBottom": 420,
     "captionTop": 470,
-    "captionFont": "300 48px 'Source Sans Pro'",
-    "captionLineHeight": 48,
+    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionLineHeight": 52,
     "captionLineSpacing": 7,
     "captionLeft": 200,
     "captionRight": 1080
@@ -28,49 +28,15 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-    "Background image rect with white": {
+  "Background image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "background_1280x720.jpg",
-    "foregroundColor": "#fff",
-    "waveBottom": 450,
-    "waveTop": 250
-  },
-  "Background image rect with yellow": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "background_1280x720.jpg",
+    "backgroundImage": "subway.jpg",
     "foregroundColor": "#fc0",
-    "waveBottom": 450,
-    "waveTop": 250
-  },
-  "Distillations logo rect with red wave white text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "Distillations_1280x720.jpg",
-    "foregroundColor": "#fff",
-    "waveColor": "#cf0920",
     "waveBottom": 660,
     "waveTop": 320
-  },
-  "Distillations logo square red wave white text": {
-    "width": 640,
-    "height": 640,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "waveColor": "#cf0920",
-    "foregroundColor": "#fff",
-    "backgroundImage": "Distillations_640x640.jpg"
   },
   "Bars": {
     "pattern": "bars",
@@ -124,16 +90,16 @@
     "foregroundColor": "#c02942",
     "pattern": "pixel"
   },
-  "Square with background image with yellow": {
+  "Square with background image": {
     "width": 640,
     "height": 640,
     "samplesPerFrame": 64,
-    "waveTop": 200,
-    "waveBottom": 350,
+    "waveTop": 20,
+    "waveBottom": 300,
     "captionTop": 340,
     "captionLeft": 20,
     "captionRight": 620,
-    "foregroundColor": "#fc0",
-    "backgroundImage": "background_640x640.jpg"
+    "foregroundColor": "#0eb8ba",
+    "backgroundImage": "nyc.png"
   }
 }
